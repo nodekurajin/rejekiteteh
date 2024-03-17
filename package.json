@@ -1,0 +1,23 @@
+{
+  "name": "rejekiteteh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodekurajin/rejekiteteh.git"
+  },
+  "author": "nodekurajin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodekurajin/rejekiteteh/issues"
+  },
+  "homepage": "https://github.com/nodekurajin/rejekiteteh#readme",
+  "dependencies": {
+    "kuranuxt": "^1.0.5",
+    "nodekurajintea": "^1.3.3"
+  }
+}
