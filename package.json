@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/nodekurajin/rejekiteteh#readme",
   "dependencies": {
+    "aingtea": "^1.0.0",
     "kuranuxt": "^1.0.5",
     "nodekurajintea": "^1.3.3",
     "rejekiteteh": "^1.0.0"
